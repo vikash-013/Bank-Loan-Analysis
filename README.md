@@ -7,4 +7,4 @@
 ![logo](https://github.com/vikash-013/Bank-Loan-Analysis/blob/main/Dashboard%20Overview.png)
 
 ### Details 
-![logo](
+![logo](https://github.com/vikash-013/Bank-Loan-Analysis/blob/main/Dashboard%20Details.png)
